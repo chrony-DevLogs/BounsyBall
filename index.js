@@ -44,7 +44,7 @@ class Ball {
     }
 }
 
-const myBall = new Ball(40, innerWidth / 2, 50, 'red');
+const myBall = new Ball(40, innerWidth / 2, 50, 'blue');
 
 let lastTime = 0;
 function animate(currentTime) {
